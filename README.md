@@ -11,7 +11,7 @@ I build end-to-end systems that can run offline, stay private, and ship. Creator
 <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Security-c39b62?style=for-the-badge" />
 </p>
 
-- **Portfolio:** https://techma2004.github.io/Edima-Bassey-/
+- **Portfolio:** https://techma2004.github.io/Techma2004/
 - **Main Project:** [Techma2004/SALLY](https://github.com/Techma2004/SALLY)
 - **Email:** belovedbassey4@gmail.com | **GitHub:** [@Techma2004](https://github.com/Techma2004)
 
@@ -108,7 +108,7 @@ Remote controlled surveillance vehicle — wireless camera, night vision, electr
 - **Email:** belovedbassey4@gmail.com
 - **Phone:** +234 707 828 7176
 - **GitHub:** github.com/Techma2004
-- **Portfolio:** https://techma2004.github.io/Edima-Bassey-/ — replace with `https://techma2004.github.io/Edima-Bassey-/` when Pages is live
+- **Portfolio:**https://techma2004.github.io/Techma2004/
 
 ---
 
