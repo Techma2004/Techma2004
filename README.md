@@ -14,9 +14,8 @@ I build end-to-end systems that can run offline, stay private, and ship. Creator
 - **Portfolio:** https://techma2004.github.io/Edima-Bassey-/
 - **Main Project:** [Techma2004/SALLY](https://github.com/Techma2004/SALLY)
 - **Email:** belovedbassey4@gmail.com | **GitHub:** [@Techma2004](https://github.com/Techma2004)
-- **Location:** Calabar, Cross River State → Lagos, Nigeria
 
-> We are blessed — I build tech that respects privacy.
+>  I build tech that respects privacy.
 
 ---
 
